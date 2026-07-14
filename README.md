@@ -109,20 +109,6 @@ Paralelamente estoy construyendo un portafolio público con proyectos desarrolla
 
 ---
 
-# 📈 GitHub Stats
-
-> Estas estadísticas se actualizarán automáticamente conforme vaya publicando proyectos.
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luissalashidalgo&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luissalashidalgo&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🌱 Actualmente trabajando en
 
 - 📖 Estudiando ASP.NET Core
